@@ -12,27 +12,27 @@
    - Core components of AutoGen
    - Conversable agents and assistant agents
 
-2. [**Multi-Agent Conversations & Stand-up Comedy**]()
+2. [**Multi-Agent Conversations & Stand-up Comedy**](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L1_Multi-Agent_Conversation_and_Stand-up_Comedy.ipynb)
    - Agent memory, multi-turn chat, custom termination logic
    - Summary generation with LLM reflection
 
-3. [**Sequential Chats & Customer Onboarding**]()
+3. [**Sequential Chats & Customer Onboarding**](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L2_Sequential_Chats_and_Customer_Onboarding.ipynb)
    - User proxy agents
    - Multi-step task orchestration and data extraction
 
-4. [**Reflection & Blogpost Writing**]()
+4. [**Reflection & Blogpost Writing**](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L3_Reflection_and_Blogpost_Writing.ipynb)
    - Nested review systems
    - Role-specific feedback agents (SEO, Legal, Ethics)
 
-5. [**Tool Use & Conversational Chess**]()
+5. [**Tool Use & Conversational Chess**](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L4_Tool_Use_and_Conversational_Chess.ipynb)
    - External tool calling with Python agents
    - Game logic orchestration and human participation
 
-6. [**Coding & Financial Analysis**]()
+6. [**Coding & Financial Analysis**](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L5_Coding_and_Financial_Analysis.ipynb)
    - Agent-driven code generation and execution
    - Use of predefined helper functions
 
-7. [**Planning & Stock Report Generation**]()
+7. [**Planning & Stock Report Generation**](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L6-Planning_and_Stock_Report_Generation.ipynb)
    - Multi-role simulation: planner, engineer, executor, and writer
    - Admin-controlled iteration and report generation
 
@@ -41,12 +41,12 @@
 
 > _Each notebook includes runnable examples, task definitions, and AutoGen configurations._
 
-- [1: Multi-Agent Comedy Chat]()  
-- [2: Customer Onboarding Flow]()  
-- [3: Blog Writing with Feedback Loop]()  
-- [4: Chess Game with Tool Integration]()  
-- [5: Financial Data Analysis via Code]()  
-- [6: Stock Report via Agent Workflow]()
+- [1: Multi-Agent Comedy Chat](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L1_Multi-Agent_Conversation_and_Stand-up_Comedy.ipynb)  
+- [2: Customer Onboarding Flow](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L2_Sequential_Chats_and_Customer_Onboarding.ipynb)  
+- [3: Blog Writing with Feedback Loop](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L3_Reflection_and_Blogpost_Writing.ipynb)  
+- [4: Chess Game with Tool Integration](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L4_Tool_Use_and_Conversational_Chess.ipynb)  
+- [5: Financial Data Analysis via Code](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L5_Coding_and_Financial_Analysis.ipynb)  
+- [6: Stock Report via Agent Workflow](https://github.com/michaWorku/AI-Agentic-Design-Patterns-with-Autogen/blob/main/L6-Planning_and_Stock_Report_Generation.ipynb)
 
 
 ## 🚀 Getting Started
